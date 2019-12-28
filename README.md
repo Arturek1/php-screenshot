@@ -1,7 +1,7 @@
 # php-screenshot
 Take a screenshot of a webpage using Google API
 
-```
+```php
 require __DIR__ . '/vendor/autoload.php';
 
 use Arturek1\Screenshot\Screenshot;

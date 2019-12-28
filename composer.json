@@ -1,0 +1,20 @@
+{
+    "name": "arturek1/php-screeshot",
+    "description": "Take a screenshot of a webpage using Google API",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Arturek1",
+            "email": "artur.programista2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Arturek1\\Screenshot\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}

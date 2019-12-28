@@ -1,5 +1,6 @@
 # php-screenshot
 Take a screenshot of a webpage using Google API
+
 ```composer require arturek1/screenshot```
 ```php
 require __DIR__ . '/vendor/autoload.php';

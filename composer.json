@@ -1,5 +1,5 @@
 {
-    "name": "arturek1/php-screeshot",
+    "name": "arturek1/screenshot",
     "description": "Take a screenshot of a webpage using Google API",
     "type": "library",
     "license": "mit",
